@@ -1,2 +1,2 @@
 Finir la table de hash.
-Implémenter la fonction de recherche utilisateur dans l'interface.
+Créer de nouveaux objets pour la souris.
